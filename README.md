@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Back-End
-- 🌱 Estudando Django REST Framework
+- 🌱 Estudando Python, Django e Django REST Framework
 - 👯 Pronouns: ele/dele
 
 ## Socials:
