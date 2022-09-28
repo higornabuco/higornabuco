@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho como Back-End
 - 🌱 Estudando Python, Django e Django REST Framework
-- 👯 Pronouns: ele/dele
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23323330.svg?logo=Instagram&logoColor=white)](https://instagram.com/pimentel.nabuco/)
